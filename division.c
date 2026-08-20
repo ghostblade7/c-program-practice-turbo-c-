@@ -1,0 +1,22 @@
+#include<stdio.h>
+#include<conio.h>
+
+void main()
+{
+    int a,b;
+    float c;
+
+    clrscr();
+
+    printf("Enter your first number: ");
+    scanf("%d",&a);
+
+    printf("Enter your second number: ");
+    scanf("%d",&b);
+
+    c=(float)a/b;
+
+    printf("\nDivision = %f",c);
+
+    getch();
+}
