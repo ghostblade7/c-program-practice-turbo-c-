@@ -6,7 +6,7 @@ void main(){
     clrscr();
 
     printf("enter the value");
-    scanf("%d",&n);       // ; was missing
+    scanf("%d",&n);
 
     while(n!=0){
         r=n%10;
