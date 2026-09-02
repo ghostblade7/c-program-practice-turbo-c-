@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<conio.h>
 
-void main()
+void main() // u can use int main instead of void main 
 {
-    getch();
+    getch(); // write return 0 for int main
 }
