@@ -1,4 +1,4 @@
-# clude<stdbool.h>
+# include<stdbool.h>
 int main()
 {
     int m=34;
